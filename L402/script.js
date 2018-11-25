@@ -44,4 +44,4 @@ function countName(students, name) {
  alert(countName(student, 'name24000'));
 alert(countName(student, 'name1'));
  alert(countName(student, 'name3'));
-alert(countName(student, 'name2'));
+alert(countName(student, 'name2')); 
